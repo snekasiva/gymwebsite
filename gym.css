@@ -1,0 +1,43 @@
+.child-1{
+    position: absolute;
+    text-align: center;
+    padding: 25px;
+    left:40%;
+    font-size: 15px;
+    background-color: rgb(236, 196, 16);
+    text-transform: uppercase;
+    top: 0;
+}
+.child-1 h3{
+    font-size: 15px;
+    letter-spacing: 4px;
+}
+.child-2{
+    position: absolute;
+    top: 30%;
+    color: white;
+    width: 50%;
+    left: 20%;
+}
+.img-style{
+    filter: blur(2px);
+}
+.header{
+    background-color: black;
+    text-align: center;
+    color:white ;
+    padding: 20px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.cover-page {
+  font-size: 50px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.sub-heading {
+  text-transform: uppercase;
+  letter-spacing: 12px;
+  font-size: 15px;
+}
